@@ -1,0 +1,40 @@
+.ghichu{
+  animation: rainbow 2s linear infinite;
+}
+@keyframes rainbow {
+  0% {
+    color: red;
+  }
+  20% {
+    color: orange;
+  }
+  40% {
+    color: yellow;
+  }
+  60% {
+    color: green;
+  }
+  80% {
+    color: blue;
+  }
+  100% {
+    color: purple;
+  }
+}
+
+#mysvg{
+background-position: center;	
+background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0 auto;	
+}
+.form-bangdaugau{background: url(../../img/bangdaugau.png);}
+.form-bangtenphong{background: url(../../img/bangtenphong.png);}
+.form-bangtreo1{background: url(../../img/bangtreo1.png);}    
+.form-bangmay{background: url(../../img/bangmay.png);}  
+.form-banghaitang{background: url(../../img/banghaitang.png);} 
+.form-bangtron{background: url(../../img/bangtron.png);} 
+.form-bangchunhat{background: url(../../img/bangchunhat.png);}
+.form-bangsophongdan{background: url(../../img/bangsophongdan.png);}
+.form-bangsophongtreo{background: url(../../img/bangsophongtreo.png);}
+.form-tw02{background: url(../../img/tw02.png);}

@@ -1,0 +1,12 @@
+/* Webfont: UTMAvoBold */@font-face {
+    font-family: 'UTMAvo';
+    src: url('UTM AvoBold.eot'); /* IE9 Compat Modes */
+    src: url('UTM AvoBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('UTM AvoBold.woff') format('woff'), /* Modern Browsers */
+         url('UTM AvoBold.woff2') format('woff2'), /* Modern Browsers */
+         url('UTM AvoBold.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

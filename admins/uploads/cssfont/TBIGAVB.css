@@ -1,0 +1,12 @@
+/* Webfont: TBIGAVB */@font-face {
+    font-family: 'TBIGAVB';
+    src: url('TBIGAVB.eot'); /* IE9 Compat Modes */
+    src: url('TBIGAVB.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('TBIGAVB.woff') format('woff'), /* Modern Browsers */
+         url('TBIGAVB.woff2') format('woff2'), /* Modern Browsers */
+         url('TBIGAVB.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

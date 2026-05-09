@@ -1,0 +1,70 @@
+ <?php 
+ ob_start();
+ session_start();
+if(isset($_SESSION['username'])){?>
+
+<?php 
+$mysqli = new mysqli("localhost", "tbigshop_decor", "!@#SONbang123", "tbigshop_decor");
+if($mysqli->connect_error) {
+
+  exit('Could not connect');
+}
+$mysqli -> set_charset("utf8");
+$sql = "SELECT * FROM SANPHAM WHERE LCASE(TenSP) LIKE ? OR  LCASE(MaSP) LIKE ? LIMIT 10";
+
+ 
+
+$keyword=$_GET['q'];
+$keyword = "%".$keyword."%";
+$stmt = $mysqli->prepare($sql);
+$stmt->bind_param("ss",$keyword,$keyword);
+$stmt->execute();
+$result = $stmt->get_result();
+?>
+
+ 
+<?php
+while ($row = $result->fetch_assoc()) {
+$masp = $row['MaSP'];
+$tensp = $row['TenSP'];
+$dmsp = $row['Danhmuc'];
+$imagesp = $row['ImageSP'];
+$filevector= $row['filevector'];
+$imgthumb='uploads/images/thumb/'.$row['ImageSP'].'.jpg';	 
+$size =$row['Size'];
+$gia = $row['Gia'];
+
+$data_thuoctinh = "SELECT * FROM SANPHAM_thuoctinh WHERE ID_size IN (".$size.")";
+$result_thuoctinh = $mysqli->query($data_thuoctinh);
+
+ 
+	
+		 
+	 
+?>
+ <li >
+ <a data-ajax="false" href="uploads/filevector/<?php echo $filevector ?>.ai" style="    font-size: 12px;
+    color: #ffffff;
+    text-decoration: none;
+    position: absolute;
+    margin: 14px;
+    z-index: 1;
+    right: -30px;"><i class="fi-rr-download"></i></a>
+ <a id="<?php echo $masp;?>" style="background-color: #333333f7;border-color: #212121;color: #fff;font-weight: normal;text-shadow: 0 1px 0 #111;    font-size: 14px;padding: 6px;" data-ajax="false" href="#" class="ui-btn ui-btn-icon-right ui-icon-carat-r"  onclick='faac("<?php echo $masp;?>","<?php echo $tensp;?>","<?php echo $imgthumb;?>","<?php while($row_thuoctinh = $result_thuoctinh->fetch_assoc()) {echo '<option class=removeop id= op'.$row_thuoctinh['thuoctinh_size'].' data-typeid='.$row_thuoctinh['thuoctinh_size'].' value='.$row_thuoctinh['ID_size'].'>'.$row_thuoctinh['thuoctinh_size'].'</option>';}?>")'> 
+  <img style="width: 30px;float: left;padding-right: 10px;" src="<?php echo $imgthumb; ?>"/> <div style="padding: 6px;"><?php echo $masp ?> - <?php echo $tensp ?>  </div>
+
+ </a>
+ </li>
+ 	
+<?php 
+}
+?>
+
+
+<?php
+$stmt->close();
+?>
+ <?php }else{   header('Refresh: 0; URL = catalog.php');}?> 
+
+
+ 
