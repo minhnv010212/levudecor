@@ -28,4 +28,8 @@ try {
 
 }
 
+<<<<<<< HEAD
 ?>
+=======
+?>
+>>>>>>> 1b9c7d0 (fix mysql production)
