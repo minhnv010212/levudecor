@@ -1,0 +1,12 @@
+/* Webfont: TBigFC */@font-face {
+    font-family: 'LEVUFC';
+    src: url('TBIGFC.eot'); /* IE9 Compat Modes */
+    src: url('TBIGFC.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('TBIGFC.woff') format('woff'), /* Modern Browsers */
+         url('TBIGFC.woff2') format('woff2'), /* Modern Browsers */
+         url('TBIGFC.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

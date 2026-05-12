@@ -10,18 +10,18 @@ viewBox="0 0 33.34028 31.17225"
   <metadata id="CorelCorpID_0Corel-Layer"/>
   <path style="fill:none;stroke:black;stroke-width:0.003;stroke-miterlimit:2.6131" class="fil0 str0" d="M16.67014 1.57648c2.38883,0 4.64519,0.56679 6.64256,1.57227 0.8049,-1.85077 2.64937,-3.14528 4.79615,-3.14528 2.88705,0 5.22795,2.34091 5.22795,5.22798 0,2.19551 -1.35396,4.07491 -3.2722,4.84941 0.89848,1.90947 1.40162,4.04171 1.40162,6.29177 0,8.17169 -6.62443,14.79615 -14.79609,14.79615 -8.17167,0 -14.79611,-6.62446 -14.79611,-14.79615 0,-2.25006 0.50305,-4.38245 1.40163,-6.29177 -1.91826,-0.7745 -3.2722,-2.65389 -3.2722,-4.84941 0,-2.88707 2.3409,-5.22798 5.22795,-5.22798 2.14678,0 3.99124,1.29451 4.79614,3.14528 1.99756,-1.0054 4.25374,-1.57227 6.64257,-1.57227zm-10.77035 0.36339c0.1534,0 0.27778,0.12437 0.27778,0.27778 0,0.15341 -0.12438,0.27778 -0.27778,0.27778 -0.15341,0 -0.27778,-0.12437 -0.27778,-0.27778 0,-0.15341 0.12437,-0.27778 0.27778,-0.27778zm21.54068 0c0.1534,0 0.27778,0.12437 0.27778,0.27778 0,0.15341 -0.12438,0.27778 -0.27778,0.27778 -0.15341,0 -0.27778,-0.12437 -0.27778,-0.27778 0,-0.15341 0.12437,-0.27778 0.27778,-0.27778z"/>
   <path style="fill:none;stroke:black;stroke-width:0.003;stroke-miterlimit:2.6131" class="fil0 str0" d="M16.67014 2.36561c2.59099,0 5.0173,0.70422 7.09886,1.93074 0.42941,-2.00243 2.20917,-3.50374 4.33985,-3.50374 2.45149,0 4.43882,1.98733 4.43882,4.43883 0,2.17105 -1.55872,3.97776 -3.61804,4.3628 1.113,2.00871 1.7475,4.31929 1.7475,6.77839 0,7.73585 -6.27117,14.00701 -14.00699,14.00701 -7.73584,0 -14.00699,-6.27116 -14.00699,-14.00701 0,-2.4591 0.63435,-4.76988 1.74749,-6.77839 -2.05931,-0.38504 -3.61803,-2.19175 -3.61803,-4.3628 0,-2.4515 1.98733,-4.43883 4.43881,-4.43883 2.13069,0 3.91044,1.50131 4.33985,3.50374 2.08176,-1.2264 4.50789,-1.93074 7.09887,-1.93074zm-11.81261 6.47711c1.03246,-1.61611 2.38722,-3.00668 3.97413,-4.08006 -0.22989,-1.78369 -1.7539,-3.16152 -3.60025,-3.16152 -2.00519,0 -3.63028,1.62509 -3.63028,3.6303 0,1.87898 1.42691,3.42415 3.2564,3.61127zm19.65107 -4.08006c1.58673,1.07348 2.94183,2.46371 3.97413,4.08006 1.82949,-0.18712 3.25641,-1.73229 3.25641,-3.61127 0,-2.00521 -1.62509,-3.6303 -3.63029,-3.6303 -1.84635,0 -3.37037,1.37782 -3.60026,3.16152z"/>
-   <text text-anchor="middle" id="tenshop" x="17" y="15" font-size="5" style="font-family: TBIGFC;">Levu Shop</text>
-        <text style="font-family: TBIGBL;" id="slogan" class="slogan" x="17" y="18" font-size="2"  text-anchor="middle" >Thiết kế - gia công</text>
+   <text text-anchor="middle" id="tenshop" x="17" y="15" font-size="5" style="font-family: LEVUFC;">Levu Shop</text>
+        <text style="font-family: LEVUFC;" id="slogan" class="slogan" x="17" y="18" font-size="2"  text-anchor="middle" >Thiết kế - gia công</text>
       
-		<text style="font-family: TBIGFC;" text-anchor="middle" x="16.8"  y="22.5" font-size="2.5" id="thongtinm" class="thongtin" >
+		<text style="font-family: LEVUFC;" text-anchor="middle" x="16.5"  y="22.5" font-size="2.5" id="thongtinm" class="thongtin" >
              <tspan id="iconthongtin">`</tspan>
              <tspan id="thongtin" class="TBigFC">012 345 6789</tspan>
         </text>
 		<g id="ttthem">
-		<text style="font-family: TBIGFC;" text-anchor="middle" x="16.8"  y="25"  font-size="2.5" id="thongtin1m" class="thongtin" >
+		<text style="font-family: LEVUFC;" text-anchor="middle" x="16.5"  y="25"  font-size="2.5" id="thongtin1m" class="thongtin" >
 			<tspan id="iconthongtin1">~</tspan><tspan id="thongtin1" class="TBigFC">Thông tin 2</tspan>
 		</text> 
-		<text style="font-family: TBIGFC;" text-anchor="middle" x="16.8"  y="27.5" font-size="2.5" id="thongtin2m" class="thongtin" >
+		<text style="font-family: LEVUFC;" text-anchor="middle" x="16.5"  y="27.5" font-size="2.5" id="thongtin2m" class="thongtin" >
 			<tspan id="iconthongtin2">+</tspan><tspan id="thongtin2" class="TBigFC">Thông tin 3</tspan>
 		</text>	
 		</g>

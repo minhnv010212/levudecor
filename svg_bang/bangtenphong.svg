@@ -8,14 +8,14 @@ viewBox="0 0 31.17361 15.59028"
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
   <path style="fill:none;stroke:black;stroke-width:0.003;stroke-miterlimit:2.6131"  class="fil0 str0" d="M0.47836 0.00347l30.21687 0c0.26104,0 0.4749,0.21385 0.4749,0.47489l0 14.63355c0,0.26139 -0.21386,0.4749 -0.4749,0.4749l-30.21687 0c-0.26139,0 -0.47489,-0.21351 -0.47489,-0.4749l0 -14.63355c0,-0.26104 0.21349,-0.47489 0.47489,-0.47489zm0.30425 2.86735l0.23378 0 0 -1.31956c0.25522,-0.07787 0.457,-0.27972 0.53496,-0.53485l1.74568 0 0 -0.2338 -1.94481 0c0,0.31326 -0.25636,0.56962 -0.5696,0.56962l0 1.51859zm29.3746 0l0.23378 0 0 -1.51859c-0.31324,0 -0.5696,-0.25636 -0.5696,-0.56962l-1.47574 0 0 0.2338 1.27671 0c0.07787,0.25513 0.27972,0.45698 0.53485,0.53485l0 1.31956zm0.23378 0.31165l-0.23378 0 0 9.22534 0.23378 0 0 -9.22534zm-29.3746 0l-0.23378 0 0 9.22534 0.23378 0 0 -9.22534zm29.3746 9.53699l-0.23378 0 0 1.31955c-0.25513,0.07787 -0.45698,0.28009 -0.53485,0.53487l-1.27671 0 0 0.23378 1.47574 0c0,-0.31324 0.25636,-0.5696 0.5696,-0.5696l0 -1.51859zm-29.3746 0l-0.23378 0 0 1.51859c0.31324,0 0.5696,0.25636 0.5696,0.5696l1.94481 0 0 -0.23378 -1.74568 0c-0.07796,-0.25477 -0.27974,-0.457 -0.53496,-0.53487l0 -1.31955zm14.96082 -11.93685l0 0.2338 12.05679 0 0 -0.2338 -12.05679 0zm0 13.79127l0 0.23378 12.05679 0 0 -0.23378 -12.05679 0zm-0.31174 0.23378l0 -0.23378 -12.05679 0 0 0.23378 12.05679 0zm0 -13.79125l0 -0.2338 -12.05679 0 0 0.2338 12.05679 0z"/>
- <text style="font-family: TBIGAVB;" text-anchor="middle" x="15.5" y="7" font-size="2.5" id="thongtinm" class="thongtin" >
+ <text style="font-family: LEVUFC;" text-anchor="middle" x="15.5" y="7" font-size="2.5" id="thongtinm" class="thongtin" >
              <tspan id="thongtin" class="TBigFC">PHÒNG GIÁM ĐỐC</tspan>
         </text> 
 		<g id="ttthem">
-		<text style="font-family: TBIGAVB;" text-anchor="middle" x="15.5"  y="10"  font-size="2.5" id="thongtin1m" class="thongtin" >
+		<text style="font-family: LEVUFC;" text-anchor="middle" x="15.5" y="10"  font-size="2.5" id="thongtin1m" class="thongtin" >
 			<tspan id="iconthongtin1"></tspan><tspan id="thongtin1" class="TBigFC">Thông tin 2</tspan>
 		</text> 
-		<text style="font-family: TBIGAVB;" text-anchor="middle" x="15.5"  y="13" font-size="2.5" id="thongtin2m" class="thongtin" >
+		<text style="font-family: LEVUFC;" text-anchor="middle" x="15.5"  y="13" font-size="2.5" id="thongtin2m" class="thongtin" >
 			<tspan id="iconthongtin2"></tspan><tspan id="thongtin2" class="TBigFC">Thông tin 3</tspan>
 		</text>	
 		</g>
