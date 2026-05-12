@@ -9,18 +9,18 @@ viewBox="0 0 31.17361 15.59028"
   <metadata id="CorelCorpID_0Corel-Layer"/>
   <path style="fill:none;stroke:black;stroke-width:0.003;stroke-miterlimit:2.6131" class="fil0 str0" d="M0.14384 0.00347l30.88594 0c0.07715,0 0.14037,0.06314 0.14037,0.1404l0 15.30254c0,0.07726 -0.06322,0.1404 -0.14037,0.1404l-30.88594 0c-0.07715,0 -0.14037,-0.06314 -0.14037,-0.1404l0 -15.30254c0,-0.07726 0.06321,-0.1404 0.14037,-0.1404z"/>
   <rect style="fill:none;stroke:black;stroke-width:0.003;stroke-miterlimit:2.6131" class="fil0 str0" x="0.58018" y="0.58018" width="30.01325" height="14.42992"/>
-    <text text-anchor="middle" id="tenshop" x="16" y="7" font-size="5" style="font-family: TBIGFC;">Levu Shop</text>
-        <text style="font-family: TBIGBL;" id="slogan" class="slogan" x="16" y="9.5" font-size="2"  text-anchor="middle">Thiết kế - gia công</text>
+    <text text-anchor="middle" id="tenshop" x="16" y="7" font-size="5" style="font-family: LEVUFC;">Levu Shop</text>
+        <text style="font-family: LEVUFC;" id="slogan" class="slogan" x="16" y="9.5" font-size="2"  text-anchor="middle">Thiết kế - gia công</text>
       
-		<text style="font-family: TBIGFC;" text-anchor="middle" x="16"  y="12.25" font-size="2.5" id="thongtinm" class="thongtin" >
+		<text style="font-family: LEVUFC;" text-anchor="middle" x="16"  y="12" font-size="2.5" id="thongtinm" class="thongtin" >
              <tspan id="iconthongtin">`</tspan>
              <tspan id="thongtin" class="TBigFC">012 345 6789</tspan>
         </text>
 		<g id="ttthem">
-		<text style="font-family: TBIGFC;" text-anchor="middle" x="16"  y="11"  font-size="2.5" id="thongtin1m" class="thongtin" >
+		<text style="font-family: LEVUFC;" text-anchor="middle" x="16"  y="14.5"  font-size="2.5" id="thongtin1m" class="thongtin" >
 			<tspan id="iconthongtin1">~</tspan><tspan id="thongtin1" class="TBigFC">Thông tin 2</tspan>
 		</text> 
-		<text style="font-family: TBIGFC;" text-anchor="middle" x="16"  y="13" font-size="2.5" id="thongtin2m" class="thongtin" >
+		<text style="font-family: LEVUFC;" text-anchor="middle" x="16"  y="17.5" font-size="2.5" id="thongtin2m" class="thongtin" >
 			<tspan id="iconthongtin2">+</tspan><tspan id="thongtin2" class="TBigFC">Thông tin 3</tspan>
 		</text>	
 		</g>

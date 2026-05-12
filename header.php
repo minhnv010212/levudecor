@@ -21,7 +21,7 @@
 <!-- CSS Tổng của site -->	
 <link rel="stylesheet" href="css/style.css" />
 <script src="js/select2.js"></script>
-<!-- CSS chuyển select thành menu icon -->	
+<!-- CSS chuyển select thành menu icon -->	 
 <link rel="stylesheet" href="css/select2.css" />	
 <!-- Lấy tất cả CSS trong thư mục cssfont -->
  <?php

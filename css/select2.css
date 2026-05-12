@@ -79,8 +79,7 @@
 }  
   .select2-results__option[aria-selected] {
     cursor: pointer;
-    width: 37%;
-   
+    width: 100%;
     text-align: center;
     margin: -0.5px -0.2px;
     float: left;

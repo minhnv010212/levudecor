@@ -1,9 +1,7 @@
 <table id="list-bang" class="tbplugin">
-
     <tr class="titletb">
         <td colspan="6">
             <span class="sans-serif">
-                <i class="fi-rr-layers"></i>
                 Danh sách bảng
             </span>
         </td>
@@ -18,8 +16,7 @@
     id="select-formbang"
     class="modern-select"
     onchange="changeFormbang(this)"
->
-
+> 
     <?php
 
     $id_formbang = $_GET['id_formbang'] ?? '';

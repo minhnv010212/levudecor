@@ -1,0 +1,12 @@
+/* Webfont: TBIGBL */@font-face {
+    font-family: 'LEVUBL';
+    src: url('TBIGBL.eot'); /* IE9 Compat Modes */
+    src: url('TBIGBL.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('TBIGBL.woff') format('woff'), /* Modern Browsers */
+         url('TBIGBL.woff2') format('woff2'), /* Modern Browsers */
+         url('TBIGBL.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

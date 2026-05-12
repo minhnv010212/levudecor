@@ -10,21 +10,21 @@ viewBox="0 0 41.57517 26.09419"
   <g id="_1797813664784">
    <path style="fill:none;stroke:black;stroke-width:0.003;stroke-miterlimit:2.6131" class="fil0 str0" d="M33.33957 21.94175c-0.90158,0.95502 -2.16137,1.50821 -3.50002,1.50821 -1.11463,0 -2.17543,-0.38341 -3.02089,-1.06541 -1.62981,2.30256 -4.28649,3.70615 -7.16409,3.70615 -3.01545,0 -5.78316,-1.54124 -7.38328,-4.02938 -1.30437,0.91857 -2.86148,1.41586 -4.47887,1.41586 -4.30149,0 -7.78896,-3.48749 -7.78896,-7.78898 0,-4.30149 3.48747,-7.789 7.78896,-7.789 0.26889,0 0.53733,0.01382 0.80435,0.0414 0.42235,-4.45316 4.17277,-7.93714 8.73642,-7.93714 3.33476,0 6.35157,1.88536 7.83299,4.81476 0.61972,-0.13904 1.25354,-0.20889 1.89062,-0.20889 3.88305,0 7.25445,2.5967 8.28831,6.2659 0.1399,-0.01004 0.28027,-0.01508 0.42075,-0.01508 3.20623,0 5.80582,2.5996 5.80582,5.80581 0,3.20624 -2.59959,5.80582 -5.80582,5.80582 -0.84289,0 -1.66834,-0.18094 -2.4263,-0.53004z"/>
    <path style="fill:none;stroke:black;stroke-width:0.003;stroke-miterlimit:2.6131" class="fil0 str0" d="M27.05681 5.48031c3.80787,0 6.97357,2.74959 7.61982,6.37163 0.35044,-0.07898 0.71494,-0.1208 1.08924,-0.1208 2.72547,0 4.93485,2.20936 4.93485,4.93483 0,2.72548 -2.20938,4.93485 -4.93485,4.93485 -0.97512,0 -1.88409,-0.2829 -2.64942,-0.77089 -0.70774,1.05476 -1.91117,1.74905 -3.2769,1.74905 -1.30306,0 -2.45819,-0.63216 -3.17623,-1.60628 -1.32002,2.52404 -3.96297,4.24703 -7.00875,4.24703 -3.14126,0 -5.85433,-1.83209 -7.12937,-4.4861 -1.23743,1.16119 -2.90187,1.87258 -4.73276,1.87258 -3.82074,0 -6.91799,-3.09719 -6.91799,-6.91799 0,-3.82077 3.09725,-6.91802 6.91799,-6.91802 0.56446,0 1.11294,0.06816 1.63813,0.19569 -0.00145,-0.06197 -0.00238,-0.12409 -0.00238,-0.18644 0,-4.36586 3.5392,-7.90499 7.90501,-7.90499 3.332,0 6.1821,2.06154 7.3453,4.97865 0.74944,-0.24174 1.54847,-0.3728 2.37831,-0.3728z"/>
-  <text text-anchor="middle" id="tenshop" x="21" y="13.5" font-size="4.5" style="font-family: TBIGFC;">Levu Shop</text>
-        <text style="font-family: TBIGBL;" id="slogan" class="slogan" x="21" y="16.5" font-size="2.7"  text-anchor="middle" >Thiết kế - gia công</text>
+  <text text-anchor="middle" id="tenshop" x="21" y="13.5" font-size="4.5" style="font-family: LEVUFC;">Levu Shop</text>
+        <text style="font-family: LEVUFC;" id="slogan" class="slogan" x="21" y="16.5" font-size="2.7"  text-anchor="middle" >Thiết kế - gia công</text>
      
-	 <text style="font-family: TBIGFC;" text-anchor="middle" x="21"  y="19.5" font-size="2.5" id="thongtinm" class="thongtin" >
+	 <text style="font-family: LEVUFC;" text-anchor="middle" x="20.5"  y="20.5" font-size="2.5" id="thongtinm" class="thongtin" >
              <tspan id="iconthongtin">`</tspan>
              <tspan id="thongtin" class="TBigFC">012 345 6789</tspan>
         </text>
-		<g id="ttthem">
-		<text style="font-family: TBIGFC;" text-anchor="middle" x="21"  y="18.5"  font-size="2.5" id="thongtin1m" class="thongtin" >
+		<!-- <g id="ttthem">
+		<text style="font-family: LEVUFC;" text-anchor="middle" x="20.5"  y="18.5"  font-size="2.5" id="thongtin1m" class="thongtin" >
 			<tspan id="iconthongtin1">~</tspan><tspan id="thongtin1" class="TBigFC">Thông tin 2</tspan>
 		</text> 
-		<text style="font-family: TBIGFC;" text-anchor="middle" x="21"  y="22" font-size="2.5" id="thongtin2m" class="thongtin" >
+		<text style="font-family: LEVUFC;" text-anchor="middle" x="20.5" y="22" font-size="2.5" id="thongtin2m" class="thongtin" >
 			<tspan id="iconthongtin2">+</tspan><tspan id="thongtin2" class="TBigFC">Thông tin 3</tspan>
 		</text>	
-		</g>
+		</g> -->
   </g>
  </g>
 </svg>

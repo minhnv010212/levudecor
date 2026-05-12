@@ -10,18 +10,18 @@ viewBox="0 0 29.61734 29.61735"
   <g id="_1797806848272">
    <path style="fill:none;stroke:black;stroke-width:0.003;stroke-miterlimit:2.6131" class="fil0 str0" d="M14.80867 29.61388c8.17669,0 14.8052,-6.62852 14.8052,-14.8052 0,-8.17669 -6.62851,-14.8052 -14.8052,-14.8052 -8.17669,0 -14.8052,6.62851 -14.8052,14.8052 0,8.17669 6.6285,14.8052 14.8052,14.8052z"/>
    <path style="fill:none;stroke:black;stroke-width:0.003;stroke-miterlimit:2.6131" class="fil0 str0" d="M14.80867 0.80165c7.73586,0 14.00702,6.27116 14.00702,14.00702 0,7.73587 -6.27116,14.00702 -14.00702,14.00702 -7.73586,0 -14.00702,-6.27116 -14.00702,-14.00702 0,-7.73586 6.27116,-14.00702 14.00702,-14.00702z"/>
-  <text text-anchor="middle" id="tenshop" x="14.8" y="15" font-size="5" style="font-family: TBIGFC;">Levu Shop</text>
-        <text style="font-family: TBIGBL;" id="slogan" class="slogan" x="14.8" y="18" font-size="2"  text-anchor="middle" >Thiết kế - gia công</text>
+  <text text-anchor="middle" id="tenshop" x="14.8" y="15" font-size="5" style="font-family: LEVUFC;">Levu Shop</text>
+        <text style="font-family: LEVUFC;" id="slogan" class="slogan" x="14.8" y="18" font-size="2"  text-anchor="middle" >Thiết kế - gia công</text>
       
-		<text style="font-family: TBIGFC;" text-anchor="middle" x="14.8"  y="22.5" font-size="2.5" id="thongtinm" class="thongtin" >
+		<text style="font-family: LEVUFC;" text-anchor="middle" x="14.8"  y="22.5" font-size="2.5" id="thongtinm" class="thongtin" >
              <tspan id="iconthongtin">`</tspan>
              <tspan id="thongtin" class="TBigFC">012 345 6789</tspan>
         </text>
 		<g id="ttthem">
-		<text style="font-family: TBIGFC;" text-anchor="middle" x="14.8"  y="25"  font-size="2.5" id="thongtin1m" class="thongtin" >
+		<text style="font-family: LEVUFC;" text-anchor="middle" x="14.8"  y="25"  font-size="2.5" id="thongtin1m" class="thongtin" >
 			<tspan id="iconthongtin1">~</tspan><tspan id="thongtin1" class="TBigFC">Thông tin 2</tspan>
 		</text> 
-		<text style="font-family: TBIGFC;" text-anchor="middle" x="14.8"  y="27.5" font-size="2.5" id="thongtin2m" class="thongtin" >
+		<text style="font-family: LEVUFC;" text-anchor="middle" x="14.8"  y="27.5" font-size="2.5" id="thongtin2m" class="thongtin" >
 			<tspan id="iconthongtin2">+</tspan><tspan id="thongtin2" class="TBigFC">Thông tin 3</tspan>
 		</text>	
 		</g>
