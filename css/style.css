@@ -439,7 +439,7 @@ dd { font-size: 1.25em; margin: 1em 0 0; padding-bottom: 1em; border-bottom: 1px
 #Fontslogan-button,
 #Fontttshop-button,
 #Fontttshop1-button,
-#Fontttshop2-button span {
+#Fontttshop2-button span h1{
     font-family: 'LEVUFC';
 }
 
